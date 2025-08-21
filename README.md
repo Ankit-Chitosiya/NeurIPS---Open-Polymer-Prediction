@@ -1,7 +1,23 @@
 # 🧪 NeurIPS – Open Polymer Prediction
 
 This repository contains my solutions, experiments, and models for the **NeurIPS Open Polymer Prediction Challenge**.  
-The goal of the competition is to predict **polymer properties** (e.g., FFV, Tg, etc.) from molecular SMILES representations using machine learning methods.
+The goal of the competition is to predict **polymer properties** (FFV, Tg, Tc, Density, Rg) from molecular SMILES representations using machine learning methods.
+
+Dataset Columns
+
+id – Unique identifier for each polymer.
+
+SMILES – Sequence-like chemical notation of polymer structures.
+
+Tg – Glass transition temperature (K).
+
+FFV – Fractional free volume.
+
+Tc – Thermal conductivity (W/m·K).
+
+Density – Polymer density (g/cm³).
+
+Rg – Radius of gyration (Å).
 
 ---
 
@@ -42,9 +58,9 @@ Open:
 ---
 
 ## 📊 Models & Public Results
-- **Neural Network** → RMSLE: **0.110**  
-- **XGBoost (same embeddings)** → RMSLE: **0.76**  
-- **XGBoost (different embeddings)** → RMSLE: **0.74**  
+- **Neural Network** → Public Score: **0.110**  
+- **XGBoost (same embeddings)** → Public Score: **0.76**  
+- **XGBoost (different embeddings)** → Public Score: **0.74**  
 
 ---
 
