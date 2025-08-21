@@ -25,10 +25,11 @@ Rg – Radius of gyration (Å).
 ```
 NeurIPS---Open-Polymer-Prediction/
 │
-├── Neural_Network.ipynb              # Neural network model training
-├── XGBoost_same_embeddings.ipynb     # XGBoost with same embeddings
-├── XGBoost_different_embeddings.ipynb# XGBoost with different embeddings
-├── data/                             # (optional) Place for datasets
+├── Notebooks├── Neural_Network.ipynb              # Neural network model training
+             ├── XGBoost_same_embeddings.ipynb     # XGBoost with same embeddings
+             ├── XGBoost_different_embeddings.ipynb# XGBoost with different embeddings
+
+├── Data/                             # (optional) Place for datasets
 └── README.md                         # Project documentation
 ```
 
