@@ -65,7 +65,7 @@ Open:
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 - NeurIPS Open Polymer Prediction challenge organizers  
 - RDKit for molecular feature extraction  
 - Scikit-learn, XGBoost, PyTorch for ML pipelines  
