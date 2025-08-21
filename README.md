@@ -29,8 +29,8 @@ NeurIPS---Open-Polymer-Prediction/
              ├── XGBoost_same_embeddings.ipynb     # XGBoost with same embeddings
              ├── XGBoost_different_embeddings.ipynb# XGBoost with different embeddings
 
-├── Data/                             # (optional) Place for datasets
-└── README.md                         # Project documentation
+├── Data/                             
+└── README.md                         
 ```
 
 ---
